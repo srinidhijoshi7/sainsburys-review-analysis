@@ -37,7 +37,6 @@ The LDA topic model is available as an interactive visualisation:
 ```bash
 git clone https://github.com/srinidhijoshi7/sainsburys-review-analysis
 cd sainsburys-review-analysis
-pip install -r requirements.txt
 # Run scripts in order: Stage 1 → 7
 python discover_products.py
 python scrape_reviews.py
@@ -48,10 +47,6 @@ python topic_modelling.py
 python temporal_analysis.py
 python build_interactive_page.py
 ```
-
-## Dependencies
-
-See `requirements.txt`. Key libraries: Python 3.9.6, pandas, numpy, transformers, torch, gensim, nltk, matplotlib, seaborn, pyLDAvis, BeautifulSoup4.
 
 ## Ethics
 
