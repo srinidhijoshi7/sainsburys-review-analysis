@@ -361,7 +361,7 @@ def build_enhanced_page(lda, corpus, dictionary, output_path):
 
 <footer>
     Generated using <code>pyLDAvis</code> (Mabey 2018) and <code>gensim</code> (Řehůřek and Sojka 2010). LDA algorithm: Blei, Ng and Jordan (2003). Relevance metric: Sievert and Shirley (2014).<br>
-    Sainsbury's Customer Review Analysis · University of Bristol · Social Media and Web Analytics (EFIMM0139) · 2026
+    Sainsbury's Customer Review Analysis · University of Bristol · Social Media and Web Analytics · 2026
 </footer>
 
 </body>
